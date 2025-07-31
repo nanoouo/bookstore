@@ -50,7 +50,7 @@ genre: "Thriller"
 {
 id: 6,
 titre: "To Kill a Mockingbird",
-image: "https://images.unsplash.com/photo-1515924381402-6b2a2bbc49a7?w=300&h=400&fit=crop",
+image: "https://unsplash.com/fr/photos/photographie-a-mise-au-point-peu-profonde-dune-pile-de-livres-zvKx6ixUhWQ",
 résumé: "Dans l'Alabama des années 1930, Scout Finch raconte l'histoire de son père avocat qui défend un hommenoir accusé à tort. Un roman poignant sur le racisme, la justice et l'innocence perdue.",
 auteur: "Harper Lee",
 prix: 14.50,

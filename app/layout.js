@@ -7,7 +7,7 @@ import NavBar from './components/NavBar'
 
 
 export const metadata = {
-  title: 'BOOKSTORE – Votre bibliothèque en ligne',
+  title: 'BOOKSTORE - Votre bibliothèque en ligne',
   description: 'Découvrez, commandez et explorez des milliers de livres dans tous les genres.',
 }
 
