@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Open+Sans&family=Lora&display=swap');
+
+@import "tailwindcss";
+
+/* Polices */
+.font-title {
+  font-family: 'Inter', sans-serif;
+}
+
+.font-menu {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.font-body {
+  font-family: 'Lora', serif;
+}
+
+/* Couleurs */
+.text-primaire {
+  color: #dc2626;
+}
+
+.bg-primaire {
+  background-color: #dc2626;
+}
+
+.text-secondaire {
+  color: #7c3aed;
+}
+
+.bg-secondaire {
+  background-color: #7c3aed;
+}
